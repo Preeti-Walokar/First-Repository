@@ -1,0 +1,143 @@
+.back-button{
+  padding-top: 10px;
+  padding-bottom:10px; 
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.first-page{
+  margin-right: 5px;
+}
+
+.second-page{
+  margin-right: 5px;
+}
+
+.third-page{
+  margin-right: 5px;
+}
+
+.fourth-page{
+  margin-right: 5px;
+}
+
+.fifth-page{
+  margin-right: 5px;
+}
+
+.next-button{
+
+  padding-top: 10px;
+  padding-bottom:10px; 
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+
+} 
+
+.stretch-button{
+    
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom:5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    transition: opacity 0.15s;
+}
+
+.stretch-button:hover{
+  padding-top: 15px;
+  padding-bottom:15px; 
+  padding-left: 20px;
+  padding-right: 20px;
+  opacity: 0.8;
+}
+
+.shadow-button{
+
+  background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom:5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+
+.shadow-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15); 
+}
+
+.one-button{
+  background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom:5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px; 
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.one-button:hover{
+  padding-left: 20px;
+    padding-right: 20px; 
+    opacity: 0.8;
+}
+
+
+.two-button{
+  background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom:5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px; 
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.two-button:hover{
+    padding-left: 20px;
+    padding-right: 20px; 
+    opacity: 0.8;
+}
+
+.three-button{
+  background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom:5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;  
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.three-button:hover{
+  padding-left: 20px;
+  padding-right: 20px; 
+  opacity: 0.8;
+}
